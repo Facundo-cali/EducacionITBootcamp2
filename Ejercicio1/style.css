@@ -1,0 +1,51 @@
+body{
+    background-color: #edf7ff;
+    margin: 0;
+}
+.container{
+    margin: 100px;
+}
+h1{
+    font-family: 'MuseoModerno';
+    font-weight: 700;
+    font-size: 117px;
+    color: #8a9af1;
+    margin: 0;
+}
+h2{
+    font-family: 'MuseoModerno';
+    font-weight: 700;
+    font-size: 117px;
+    color: #0a2ff1;
+    margin: 0;
+}
+h3{
+    font-family: 'Asap', sans-serif;
+    font-weight: 400;
+    font-size: 52px;
+    color: #0a2ff1;
+    margin: 0;
+}
+h4{
+    font-family: 'MuseoModerno';
+    font-size: 48px;
+    color: #0a2ff1;
+    margin: 0;
+}
+
+p{
+    font-family: 'Asap', sans-serif;
+    font-weight: 400;
+    font-size: 33px;
+}
+
+strong{
+    font-family: 'Asap', sans-serif;
+    font-weight: 700;
+    font-size: 33px;
+}
+
+ul{
+    font-family: 'Asap', sans-serif;
+    font-size: 33px;
+}
